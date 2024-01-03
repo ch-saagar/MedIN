@@ -27,8 +27,3 @@ pip install -r requirements.txt
 
 
 
-
-
-
-### Inference on a video:
-https://www.youtube.com/@Pyresearch/videos
