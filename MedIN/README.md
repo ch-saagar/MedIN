@@ -1,10 +1,4 @@
-# how to make webcam pulse detector with python opencv
-
-
-A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
-
-
-
+MedIN
 
 ### Steps to run Code
 - Clone the repository.
@@ -31,8 +25,6 @@ pip install -r requirements.txt
 `python filename.py`
 
 
-<video src="https://user-images.githubusercontent.com/34125851/220516075-2c7608fe-f47b-4bde-9863-19a1fe83b1ad.mp4
-"></video>
 
 
 
