@@ -3,11 +3,11 @@ MedIN
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/ch-saagar/get_pulse.git
+git clone https://github.com/ch-saagar/MedIN
 ```
 - Goto the cloned folder.
 ```
-cd how-to-make-webcam-pulse-detector-with-python-opencv
+cd MedIN
 
 ```
 - Upgrade pip with mentioned command below.
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
  - Run 
  
-`python filename.py`
+`python get_pulse.py`
 
 
 
