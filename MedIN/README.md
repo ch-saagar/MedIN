@@ -3,7 +3,7 @@ MedIN
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/how-to-make-webcam-pulse-detector-with-python-opencv.git
+git clone https://github.com/ch-saagar/get_pulse.git
 ```
 - Goto the cloned folder.
 ```
